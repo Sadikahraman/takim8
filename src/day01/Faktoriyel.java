@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Faktoriyel {
 	public static void main(String[] args) {
+		
+		/// sadi kahraman
 
 		// Girdigimiz sayilarin faktoriyelini yani 1 den o sayiya kadar carpimlarini
 		// lutfen bulunuz
